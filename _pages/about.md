@@ -7,25 +7,15 @@ math: true
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><a href="mailto:name.surname@university.edu">name.surname@university.edu</a></p>
+  image_circular: true # crops the image to make it circular
 ---
 
-I am an academic at the [University](https//www.universitywebsite.com). I'm currently in the process of building by website. 
+Hello ! My name is Tudy. I hold a Master’s degree in Applied Mathematics (Cycle Ingénieur) from École Polytechnique and I'm currently following my Master 2 in Machine Learning (MVA) from ENS Paris-Saclay. 
 
-**My research interests lie in**
+**Interests**
 
-- **Interest 1.**
-- **Interest 2.**
-- **Interest 3.**
+- **Frontier AI (especially RL and its application to LLMs)**
+- **All kind of sports, but especially boxing & trail-running** 
+- **Litterature & History**
 
-If you’d like to chat, feel free to reach out via <a href="mailto:name.surname@university.edu">name.surname@university.edu</a>
 
-## Talks
-
-I'll give talks at the following venues:
-
-- Venue 1 : *Title 1*
-- Venue 2 : *Title 2*
-- Venue 3 : *Title 3*
