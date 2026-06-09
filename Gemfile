@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
+gem 'kramdown-math-mathjax'  # loaded by kramdown via math_engine: mathjax; NOT a Jekyll plugin
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
-    gem 'kramdown-math-mathjax'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
