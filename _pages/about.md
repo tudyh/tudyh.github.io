@@ -16,6 +16,6 @@ Hello ! My name is Tudy. I hold a Master’s degree in Applied Mathematics (Cycl
 
 - **Frontier AI (especially RL and its application to LLMs)**
 - **All kind of sports, mainly practicing boxing & trail-running** 
-- **History % Geopolitics**
+- **History & Geopolitics**
 
 
